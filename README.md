@@ -22,3 +22,5 @@ Keep scripting, keep automating, and may your Bash scripts always run bug-free!
 🐧💻 Happy learning in the world of Linux! 🚀🎉
 
 ---
+
+<p align="center">&copy; 2025 Venkata Sri Deepthi SriKotaPeetambaram | Scripting with Shell and Bash Commands in Linux Repository</p>
