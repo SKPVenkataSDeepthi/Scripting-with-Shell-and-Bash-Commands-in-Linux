@@ -1,6 +1,6 @@
-********** BASIC LINUX COMMANDS***********
+# BASIC LINUX COMMANDS 
 
-# Why Do We Need Linux Commands?
+#### Why Do We Need Linux Commands?
 When using Linux, you can perform tasks in two ways:
 1. Graphical User Interface (GUI) – Clicking buttons, similar to Windows or macOS.
 2. Command Line Interface (CLI) – Typing commands to get things done faster.
