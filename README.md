@@ -1,5 +1,7 @@
 # Scripting with Shell and Bash Commands in Linux
 
+## ![Background](https://gifdb.com/images/high/linux-users-downloading-anything-ti3ra6uo1duvm78o.gif)
+
 ## Overview
 This repository provides a comprehensive guide to scripting with Shell and Bash commands in Linux. It covers fundamental topics such as understanding the operating system, navigating system directories, managing files and directories, using control statements, writing functions, processing data, and automating tasks with CRON.
 
@@ -18,7 +20,8 @@ This repository provides a comprehensive guide to scripting with Shell and Bash 
 
 ---
 
-Keep scripting, keep automating, and may your Bash scripts always run bug-free! 
+Keep scripting and keep automating ! 
+
 🐧💻 Happy learning in the world of Linux! 🚀🎉
 
 ---
