@@ -1,4 +1,4 @@
-Think of Linux as a powerful and flexible computer system, similar to Windows or Mac, but with some unique features. It’s an open-source operating system, which means anyone can use, modify, or improve it for free. This makes it very popular among tech experts, businesses, and developers.
+Think of Linux as a powerful and flexible computer system, similar to Windows or Mac, but with some unique features. It’s an open-source operating system, which means anyone can use, modify, or improve it for free. This makes it very popular among tech experts, businesses, and developers. 
 
 # Where is Linux Used?
 Linux is everywhere! Even if you’ve never used it directly, you’ve probably interacted with it without knowing. Here are some common places where Linux plays a big role:
