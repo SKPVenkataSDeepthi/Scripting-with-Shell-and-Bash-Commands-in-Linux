@@ -20,9 +20,9 @@ This repository provides a comprehensive guide to scripting with Shell and Bash 
 
 ---
 
-Keep scripting and keep automating ! 
+Keep scripting and keep automating !🐧💻 
 
-🐧💻 Happy learning in the world of Linux! 🚀🎉
+Happy learning in the world of Linux! 🚀🎉
 
 ---
 
