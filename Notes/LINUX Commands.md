@@ -7,7 +7,7 @@ When using Linux, you can perform tasks in two ways:
 Using commands in the Terminal, can be much quicker and more powerful than clicking around with a mouse.
 
 
-
+#### Commands
 * "echo" is a command that displays the text or message in the terminal. 
 * "pwd" - print working directory ---> tells the path of the folder(tells if the terminal is a folder or directory). 
 > Folder and directory are the same things
